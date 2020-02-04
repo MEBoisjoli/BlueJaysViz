@@ -1,0 +1,50 @@
+[
+  {
+    "pitcher": 547943,
+    "pitch_type": "CH",
+    "velo": 80.15329032258065,
+    "hmov": 12.729861677419354,
+    "vmov": 5.4084,
+    "name": "hyun-jin-ryu"
+  },
+  {
+    "pitcher": 547943,
+    "pitch_type": "CU",
+    "velo": 72.77105263157895,
+    "hmov": -13.357961403508773,
+    "vmov": -13.062238596491229,
+    "name": "hyun-jin-ryu"
+  },
+  {
+    "pitcher": 547943,
+    "pitch_type": "FC",
+    "velo": 86.96212686567164,
+    "hmov": -1.1460067164179106,
+    "vmov": 7.083414179104478,
+    "name": "hyun-jin-ryu"
+  },
+  {
+    "pitcher": 547943,
+    "pitch_type": "FF",
+    "velo": 90.71527224435592,
+    "hmov": 10.190725099601593,
+    "vmov": 13.390114741035855,
+    "name": "hyun-jin-ryu"
+  },
+  {
+    "pitcher": 547943,
+    "pitch_type": "FT",
+    "velo": 90.13068493150685,
+    "hmov": 15.593723835616437,
+    "vmov": 8.680073424657534,
+    "name": "hyun-jin-ryu"
+  },
+  {
+    "pitcher": 547943,
+    "pitch_type": "SL",
+    "velo": 80.1,
+    "hmov": -4.336457142857142,
+    "vmov": -3.742457142857143,
+    "name": "hyun-jin-ryu"
+  }
+]
